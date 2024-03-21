@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbc5d2b9-35ea-48d8-a365-83078c4c4380" name="Changes" comment="made repository">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGymFormat/ModuleInvisible.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat/ModuleInvisible.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGymFormat/ModuleRule.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat/ModuleRule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGymFormat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711019850434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made repository">
+      <option name="closed" value="true" />
+      <created>1711020732466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711020732466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
