@@ -1,10 +1,12 @@
 Metadata-Version: 2.1
 Name: PyGymFormat
 Version: 0.0.1
-Summary: Base classes for making games that comply with Openai Gym enviroment creation standards
+Summary: Base classes for making games that comply with Openai Gym environment creation standards
+Home-page: https://github.com/Bassneptun/PyGymFormat
 Author: Jeremy Neumann
 Author-email: jeremytaylorneumann@gmail.com
 License: MIT
+License-File: LICENSE
 Requires-Dist: pygame
 Requires-Dist: numpy
 Requires-Dist: vectormath

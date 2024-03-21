@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbc5d2b9-35ea-48d8-a365-83078c4c4380" name="Changes" comment="made repository">
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGymFormat/ModulePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat/ModulePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGymFormat.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGymFormat.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGymFormat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGymFormat/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/PyGymFormat/ModulePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/PyGymFormat/ModulePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/PyGymFormat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/PyGymFormat/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,9 +33,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dzfE5kGIa2qpBoLEeTjFSw62GE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,13 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\jerem\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="7ffa8245-feaf-4b39-819a-a7fd4aab00b9" reportId="PyGymFormat/qodana/2024-03-21" />
+      <ReportDescription localRun="true" path="C:\Users\jerem\AppData\Local\Temp\qodana_output1\qodana.sarif.json" reportGuid="1ad9e07e-e729-420e-ad03-078a5508de8d" reportId="PyGymFormat/qodana/2024-03-21" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711022353013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="made repository">
+      <option name="closed" value="true" />
+      <created>1711026177439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026177439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
