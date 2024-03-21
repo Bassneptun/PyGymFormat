@@ -7,6 +7,7 @@ setup(
     license="MIT",
     description="Base classes for making games that comply with Openai Gym enviroment creation standards",
     long_description=open("README.md").read(),
+    url="https://github.com/Bassneptun/PyGymFormat",
     install_requires=["pygame", "numpy", "vectormath"],
     author="Jeremy Neumann",
     author_email="jeremytaylorneumann@gmail.com"
